@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Swastik/AndroidStudioProjects/Foodie/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2235" />
+        <entry key="..\:/Users/Swastik/AndroidStudioProjects/Foodie/app/src/main/res/drawable/button_bg.xml" value="0.222" />
+        <entry key="..\:/Users/Swastik/AndroidStudioProjects/Foodie/app/src/main/res/drawable/ic_add_circle.xml" value="0.2235" />
+        <entry key="..\:/Users/Swastik/AndroidStudioProjects/Foodie/app/src/main/res/drawable/ic_fast_food_svgrepo_com.xml" value="0.1" />
+        <entry key="..\:/Users/Swastik/AndroidStudioProjects/Foodie/app/src/main/res/drawable/ic_fsplash.xml" value="0.204" />
+        <entry key="..\:/Users/Swastik/AndroidStudioProjects/Foodie/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Swastik/AndroidStudioProjects/Foodie/app/src/main/res/drawable/ic_logout.xml" value="0.1" />
+        <entry key="..\:/Users/Swastik/AndroidStudioProjects/Foodie/app/src/main/res/drawable/ic_remove_circle.xml" value="0.2235" />
+        <entry key="..\:/Users/Swastik/AndroidStudioProjects/Foodie/app/src/main/res/drawable/textview.xml" value="0.211" />
+        <entry key="..\:/Users/Swastik/AndroidStudioProjects/Foodie/app/src/main/res/layout/activity_login.xml" value="0.20018115942028986" />
+        <entry key="..\:/Users/Swastik/AndroidStudioProjects/Foodie/app/src/main/res/layout/activity_main.xml" value="0.20427305888483585" />
+        <entry key="..\:/Users/Swastik/AndroidStudioProjects/Foodie/app/src/main/res/layout/activity_order_success.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/Swastik/AndroidStudioProjects/Foodie/app/src/main/res/layout/activity_place_your_order.xml" value="0.1" />
+        <entry key="..\:/Users/Swastik/AndroidStudioProjects/Foodie/app/src/main/res/layout/activity_registration.xml" value="0.2" />
+        <entry key="..\:/Users/Swastik/AndroidStudioProjects/Foodie/app/src/main/res/layout/activity_resturant_menu.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/Swastik/AndroidStudioProjects/Foodie/app/src/main/res/layout/activity_splash.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/Swastik/AndroidStudioProjects/Foodie/app/src/main/res/layout/menu_recycler_row.xml" value="0.18034188034188034" />
+        <entry key="..\:/Users/Swastik/AndroidStudioProjects/Foodie/app/src/main/res/layout/nav_header.xml" value="0.12" />
+        <entry key="..\:/Users/Swastik/AndroidStudioProjects/Foodie/app/src/main/res/layout/order_history.xml" value="0.1" />
+        <entry key="..\:/Users/Swastik/AndroidStudioProjects/Foodie/app/src/main/res/layout/order_history_row.xml" value="0.1" />
+        <entry key="..\:/Users/Swastik/AndroidStudioProjects/Foodie/app/src/main/res/layout/order_success.xml" value="0.18461539003270633" />
+        <entry key="..\:/Users/Swastik/AndroidStudioProjects/Foodie/app/src/main/res/layout/orderhistory2.xml" value="0.1" />
+        <entry key="..\:/Users/Swastik/AndroidStudioProjects/Foodie/app/src/main/res/layout/place_your_order_row.xml" value="0.1" />
+        <entry key="..\:/Users/Swastik/AndroidStudioProjects/Foodie/app/src/main/res/layout/recycler_row.xml" value="0.1" />
+        <entry key="..\:/Users/Swastik/AndroidStudioProjects/Foodie/app/src/main/res/menu/drawer_menu.xml" value="0.33" />
+        <entry key="..\:/Users/Swastik/AndroidStudioProjects/Foodie/app/src/main/res/menu/menu_main.xml" value="0.1" />
+        <entry key="..\:/Users/Swastik/AndroidStudioProjects/Foodie/app/src/main/res/menu/navigation_menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

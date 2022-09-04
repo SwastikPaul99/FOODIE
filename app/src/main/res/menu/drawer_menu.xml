@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.foodie.MainActivity">
+
+    <item
+        android:id="@+id/nav_logout"
+        android:title="@string/Logout" />
+    <item
+        android:id="@+id/Orderhistory"
+        android:title="Your Orders" />
+</menu>
